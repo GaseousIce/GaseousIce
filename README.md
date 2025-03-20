@@ -1,8 +1,12 @@
 # Hey there, I'm `GaseousIce`! ❄️🚀
 
-## 🎧 Spotify and Discord actvity . . .
+## 🎧 Spotify actvity
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31u4u2pr7f66zkl7kxuoiidgiuai&unique={true|1|on|yes})](https://open.spotify.com/user/31u4u2pr7f66zkl7kxuoiidgiuai) [![Discord activity](https://discord.c99.nl/widget/theme-2/543983020403851276.png)](https://discord.com/users/543983020403851276)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31u4u2pr7f66zkl7kxuoiidgiuai&unique={true|1|on|yes})](https://open.spotify.com/user/31u4u2pr7f66zkl7kxuoiidgiuai)
+
+## Discord activity
+
+[![Discord activity](https://discord.c99.nl/widget/theme-2/543983020403851276.png)](https://discord.com/users/543983020403851276)
 
 # 💻 Tech Stack:
 
