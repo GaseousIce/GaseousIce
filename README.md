@@ -1,5 +1,6 @@
 # Hey there, I'm `GaseousIce`! ❄️🚀
 
+## About me
 ### 🧠 Tech Alchemist | 🏴‍☠️ Cyber Sentinel | 🎮 Server Architect
 
 ## 🎧 Spotify actvity
@@ -38,7 +39,7 @@
 
 ---
 
-## More info
+## More info about me
 
 🌌 **Welcome to my digital realm!** I'm a passionate technologist who thrives in the symphony of AI, security, and system customization. My journey is a blend of curiosity and innovation, where I push the boundaries of technology both professionally and for the sheer thrill of it.
 
