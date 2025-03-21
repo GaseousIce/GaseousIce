@@ -1,5 +1,7 @@
 # Hey there, I'm `GaseousIce`! ❄️🚀
 
+### 🧠 Tech Alchemist | 🏴‍☠️ Cyber Sentinel | 🎮 Server Architect
+
 ## 🎧 Spotify actvity
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31u4u2pr7f66zkl7kxuoiidgiuai&unique={true|1|on|yes})](https://open.spotify.com/user/31u4u2pr7f66zkl7kxuoiidgiuai)
