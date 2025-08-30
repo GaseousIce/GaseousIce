@@ -10,3 +10,9 @@
 - Gamer who unwinds with games in free time, kinda enjoy rhythm games more
 - Fascinated by cybersecurity and DevOps discussions
 
+## Contact Me
+
+Want to connect? Feel free to reach out on Discord! Click the Discord widget above to send me a direct message.
+
+**Pro tip:** Start your message with some context about why you're reaching out (collaboration ideas, questions about a project, tech discussions, etc.) rather than just "hi" or "found your GitHub" - it helps me prioritize and respond more effectively! 🚀
+
